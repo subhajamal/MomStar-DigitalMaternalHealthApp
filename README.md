@@ -10,8 +10,8 @@
 
 | MedStar Integration | MomStar Dashboard | Patient Selector | Exit Survey |
 |---------------------|-------------------|------------------|-------------|
-| ![MedStar](screenshots/screen1.png) | ![Dashboard](screenshots/screen2.png) | ![Select](screenshots/screen3.png) | ![Survey]|
-
+| ![MedStar] | ![Dashboard] | ![Select] | ![Survey]|
+see screenshots
 ---
 
 ## 💡 Features

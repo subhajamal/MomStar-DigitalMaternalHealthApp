@@ -1,0 +1,10 @@
+MomStar-DigitalMaternalHealthApp/
+│
+├── data/                  # Simulated wearable data (glucose, BP, etc.)
+├── app/                   # Streamlit UI and backend code
+├── notebooks/             # For early exploration or prototyping
+├── personas/              # JSON/Markdown versions of Clarke, Xiomara, etc.
+├── mockups/               # Wireframes or UI flow (optional)
+├── README.md              # Project description
+├── requirements.txt       # List of dependencies
+└── LICENSE                # MIT or other open source license

@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+langchain
+langchain-openai
+openai
+python-dotenv
+scikit-learn   # If you later do any ML modeling
+pyyaml         # LangChain sometimes depends on it
